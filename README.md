@@ -1,1 +1,1 @@
-# differential-heat
+# Differential Thermal Analysis
